@@ -17,7 +17,7 @@ package autopprof_test
 import (
 	"time"
 
-	"github.com/rakyll/autopprof"
+	"github.com/tsingson/autopprof"
 )
 
 func Example() {

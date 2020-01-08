@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/rakyll/autopprof"
+	"github.com/tsingson/autopprof"
 )
 
 func main() {

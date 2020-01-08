@@ -1,3 +1,3 @@
-module github.com/rakyll/autopprof
+module github.com/tsingson/autopprof
 
-go 1.12
+go 1.14
